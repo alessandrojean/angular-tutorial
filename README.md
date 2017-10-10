@@ -1,4 +1,5 @@
 # Angular Tutorial
+[![Build Status](https://travis-ci.org/alessandrojean/angular-tutorial.svg?branch=master)](https://travis-ci.org/alessandrojean/angular-tutorial)
 
 Codes of the [official Angular tutorial](https://angular.io/tutorial).
 
